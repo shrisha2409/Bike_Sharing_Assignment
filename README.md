@@ -30,7 +30,3 @@
 - Problem statements and methodlogies derived from Upgrad and IIITB course
 - Insights and methodologies were derived from peer analyses and community discussions.
 - Utilized Stack Overflow for troubleshooting and optimizing data manipulation techniques.
-
-## Contact
-Created by Shrisha Bhat H
-
